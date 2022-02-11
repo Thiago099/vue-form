@@ -1,0 +1,33 @@
+npm uninstall vue-cli -g
+
+npm install vue-cli@2.7.0 -g
+
+npm install -g webpack-cli
+
+vue init webpack-simple opitional-name
+
+npm install vue-resource@1.0.3 --save
+
+npm install vue-router@2.1.1 --save
+
+npm install bootstrap --save
+
+npm install --save axios vue-axios
+
+npm start
+
+
+npm i
+
+npm i -D cross-env
+
+'npm run dev'
+
+
+
+#api
+ul>li*2
+div.painel>h2+div
+
+npm start
+
